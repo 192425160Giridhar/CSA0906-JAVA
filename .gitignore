@@ -1,0 +1,19 @@
+# Compiled class files
+bin/
+*.class
+
+# Configuration with local passwords
+db_config.properties
+
+# Temp files
+*.tmp
+temp.zip
+*.log
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
